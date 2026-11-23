@@ -35,5 +35,8 @@
     "core-js-pure@3.50.0": true,
     "fsevents@2.3.3": true,
     "unrs-resolver@1.12.2": true
+  },
+  "overrides": {
+    "serialize-javascript": "^7.1.3"
   }
 }
